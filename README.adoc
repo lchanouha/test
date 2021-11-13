@@ -4,6 +4,7 @@ v20.1 {localdate}
 :uk!:
 :tdnum: TP1
 :imagesdir: images
+
 //------------------------- variables de configuration
 // only used when master document
 :icons: font
